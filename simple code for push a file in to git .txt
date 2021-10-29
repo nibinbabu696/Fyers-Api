@@ -1,9 +1,0 @@
-open the git bash in the folder
-
-1. git init. 
-2. git remote add origin <Repository link>
-3. git remote -v (to cheak wether we reached the repository)
-5. git add . (to add the all files in the stageing area)
-6. git commit -m "what we need to mention in this commit"
-7. git push origin master (to push the code to the repository)
-
